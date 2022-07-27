@@ -43,6 +43,9 @@ $ npm run start:dev
 
 # production mode
 $ npm run start:prod
+#Installation of typeorm
+yarn add typeorm@0.2.45
+
 ```
 
 ## Test
